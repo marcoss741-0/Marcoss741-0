@@ -1,4 +1,4 @@
-# Opa!, eu sou o Marcos Martins!
+# Olá!, eu sou o Marcos!
 
 Sou um estudante de programação apaixonado e com grande interesse em projetos de código aberto, desenvolvimento web e aprendizado contínuo.
 
